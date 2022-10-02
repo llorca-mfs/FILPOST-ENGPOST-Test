@@ -1,0 +1,190 @@
+{
+  "build": "py39hcbf5309_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "C:\\Users\\makorino\\anaconda3\\pkgs\\catalogue-2.0.8-py39hcbf5309_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/catalogue-2.0.8.dist-info/INSTALLER",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/LICENSE",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/METADATA",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/RECORD",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/REQUESTED",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/WHEEL",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/direct_url.json",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/top_level.txt",
+    "Lib/site-packages/catalogue-2.0.8.dist-info/zip-safe",
+    "Lib/site-packages/catalogue/__init__.py",
+    "Lib/site-packages/catalogue/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/catalogue/_importlib_metadata/__init__.py",
+    "Lib/site-packages/catalogue/_importlib_metadata/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/catalogue/_importlib_metadata/__pycache__/_compat.cpython-39.pyc",
+    "Lib/site-packages/catalogue/_importlib_metadata/_compat.py",
+    "Lib/site-packages/catalogue/tests/__init__.py",
+    "Lib/site-packages/catalogue/tests/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/catalogue/tests/__pycache__/test_catalogue.cpython-39.pyc",
+    "Lib/site-packages/catalogue/tests/test_catalogue.py",
+    ".nonadmin"
+  ],
+  "fn": "catalogue-2.0.8-py39hcbf5309_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\makorino\\anaconda3\\pkgs\\catalogue-2.0.8-py39hcbf5309_0",
+    "type": 1
+  },
+  "md5": "19c83a413650763f43907777a0af8e1c",
+  "name": "catalogue",
+  "package_tarball_full_path": "C:\\Users\\makorino\\anaconda3\\pkgs\\catalogue-2.0.8-py39hcbf5309_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f7f74ea82f9a10d7ce2ba05dd7e460c8c2bb42a6cc7d9ae71ab35661b5f71c9b",
+        "sha256_in_prefix": "f7f74ea82f9a10d7ce2ba05dd7e460c8c2bb42a6cc7d9ae71ab35661b5f71c9b",
+        "size_in_bytes": 1073
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "707c282a6476b2f46e8029c59d6c36c7d6f74fdcf9071a507903262351b98601",
+        "sha256_in_prefix": "707c282a6476b2f46e8029c59d6c36c7d6f74fdcf9071a507903262351b98601",
+        "size_in_bytes": 14058
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d5edac38230eca7b8a0ea0a72519fa69a4586d60c33de8161653249b24421580",
+        "sha256_in_prefix": "d5edac38230eca7b8a0ea0a72519fa69a4586d60c33de8161653249b24421580",
+        "size_in_bytes": 1520
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f5efc57e53e1d0df6aaa8982f36055298533e991783d5852644bf5067b1d7cc9",
+        "sha256_in_prefix": "f5efc57e53e1d0df6aaa8982f36055298533e991783d5852644bf5067b1d7cc9",
+        "size_in_bytes": 70
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "bf4173c07258f24932edfdddb83255aa3d33ddd09b06d7b70b1d712cf03faa7e",
+        "sha256_in_prefix": "bf4173c07258f24932edfdddb83255aa3d33ddd09b06d7b70b1d712cf03faa7e",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "Lib/site-packages/catalogue-2.0.8.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7abb7278cf4ddc044dfd499843d6c683d24090e9b82d74d8b3b7cbcf22f1106f",
+        "sha256_in_prefix": "7abb7278cf4ddc044dfd499843d6c683d24090e9b82d74d8b3b7cbcf22f1106f",
+        "size_in_bytes": 8845
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4037e9c86cfacbbd82a8fc66b32566a3bb2caa032b9c019981dc2eaeac4c372f",
+        "sha256_in_prefix": "4037e9c86cfacbbd82a8fc66b32566a3bb2caa032b9c019981dc2eaeac4c372f",
+        "size_in_bytes": 8874
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/_importlib_metadata/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "66b6bc8345ef10d38cc5a50c45df388e3e14073b914149c1eb25313480730091",
+        "sha256_in_prefix": "66b6bc8345ef10d38cc5a50c45df388e3e14073b914149c1eb25313480730091",
+        "size_in_bytes": 20204
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/_importlib_metadata/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b931768bef2001cc307d239d1da5e327ea4f902b4dd000fe7e13774817bebf74",
+        "sha256_in_prefix": "b931768bef2001cc307d239d1da5e327ea4f902b4dd000fe7e13774817bebf74",
+        "size_in_bytes": 24709
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/_importlib_metadata/__pycache__/_compat.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "792c14b6992d7e2d8f27bdfbc75a28ecfa8cd5e69379b5f998d8526a18ce73d7",
+        "sha256_in_prefix": "792c14b6992d7e2d8f27bdfbc75a28ecfa8cd5e69379b5f998d8526a18ce73d7",
+        "size_in_bytes": 2520
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/_importlib_metadata/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "572ba660bc15356dfd157a955785ca536c91e5e4691f2712ec0ea90f11551316",
+        "sha256_in_prefix": "572ba660bc15356dfd157a955785ca536c91e5e4691f2712ec0ea90f11551316",
+        "size_in_bytes": 2406
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/tests/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a81e33cfd3b726035d5ef0b54e0a27ee791b33ef156f6e97f7432f44ace7a2de",
+        "sha256_in_prefix": "a81e33cfd3b726035d5ef0b54e0a27ee791b33ef156f6e97f7432f44ace7a2de",
+        "size_in_bytes": 136
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/tests/__pycache__/test_catalogue.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "354172ac779e5bc686cf6f8f4509dfa57d7b86c0fce8156343ab7b9f853ec18f",
+        "sha256_in_prefix": "354172ac779e5bc686cf6f8f4509dfa57d7b86c0fce8156343ab7b9f853ec18f",
+        "size_in_bytes": 5229
+      },
+      {
+        "_path": "Lib/site-packages/catalogue/tests/test_catalogue.py",
+        "path_type": "hardlink",
+        "sha256": "b7138b19af381dbfdf8746dbcd1bc3b0bc631cd9e383c408ea22743c01884725",
+        "sha256_in_prefix": "b7138b19af381dbfdf8746dbcd1bc3b0bc631cd9e383c408ea22743c01884725",
+        "size_in_bytes": 5153
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "13f57127586c084391812a8428e5992988a4060acba2e4c50987e2242f587109",
+  "size": 33453,
+  "subdir": "win-64",
+  "timestamp": 1661366779076,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/catalogue-2.0.8-py39hcbf5309_0.tar.bz2",
+  "version": "2.0.8"
+}

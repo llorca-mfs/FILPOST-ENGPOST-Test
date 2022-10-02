@@ -1,0 +1,383 @@
+{
+  "build": "py39hcbf5309_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "colorama",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "C:\\Users\\makorino\\anaconda3\\pkgs\\click-8.0.4-py39hcbf5309_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/click-8.0.4.dist-info/INSTALLER",
+    "Lib/site-packages/click-8.0.4.dist-info/LICENSE.rst",
+    "Lib/site-packages/click-8.0.4.dist-info/METADATA",
+    "Lib/site-packages/click-8.0.4.dist-info/RECORD",
+    "Lib/site-packages/click-8.0.4.dist-info/REQUESTED",
+    "Lib/site-packages/click-8.0.4.dist-info/WHEEL",
+    "Lib/site-packages/click-8.0.4.dist-info/direct_url.json",
+    "Lib/site-packages/click-8.0.4.dist-info/top_level.txt",
+    "Lib/site-packages/click/__init__.py",
+    "Lib/site-packages/click/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/_compat.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/_termui_impl.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/_textwrap.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/_unicodefun.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/_winconsole.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/core.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/decorators.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/exceptions.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/formatting.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/globals.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/parser.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/shell_completion.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/termui.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/testing.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/types.cpython-39.pyc",
+    "Lib/site-packages/click/__pycache__/utils.cpython-39.pyc",
+    "Lib/site-packages/click/_compat.py",
+    "Lib/site-packages/click/_termui_impl.py",
+    "Lib/site-packages/click/_textwrap.py",
+    "Lib/site-packages/click/_unicodefun.py",
+    "Lib/site-packages/click/_winconsole.py",
+    "Lib/site-packages/click/core.py",
+    "Lib/site-packages/click/decorators.py",
+    "Lib/site-packages/click/exceptions.py",
+    "Lib/site-packages/click/formatting.py",
+    "Lib/site-packages/click/globals.py",
+    "Lib/site-packages/click/parser.py",
+    "Lib/site-packages/click/py.typed",
+    "Lib/site-packages/click/shell_completion.py",
+    "Lib/site-packages/click/termui.py",
+    "Lib/site-packages/click/testing.py",
+    "Lib/site-packages/click/types.py",
+    "Lib/site-packages/click/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "click-8.0.4-py39hcbf5309_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\makorino\\anaconda3\\pkgs\\click-8.0.4-py39hcbf5309_0",
+    "type": 1
+  },
+  "md5": "f3aeb1ea27adb411a026d4ace2c291af",
+  "name": "click",
+  "package_tarball_full_path": "C:\\Users\\makorino\\anaconda3\\pkgs\\click-8.0.4-py39hcbf5309_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/LICENSE.rst",
+        "path_type": "hardlink",
+        "sha256": "9a8ad106a394e853bfe21f42f4e72d592819a22805d991b5f3275029292b658d",
+        "sha256_in_prefix": "9a8ad106a394e853bfe21f42f4e72d592819a22805d991b5f3275029292b658d",
+        "size_in_bytes": 1475
+      },
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cdcb873b00ae5863b1c903bd30d3a51d51e712a7c50148b69471c4a4232d2c9c",
+        "sha256_in_prefix": "cdcb873b00ae5863b1c903bd30d3a51d51e712a7c50148b69471c4a4232d2c9c",
+        "size_in_bytes": 3247
+      },
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2a8f04f65bc63413b05596434e32fddad360e3a206004c8ba7e6eec4158b3d6f",
+        "sha256_in_prefix": "2a8f04f65bc63413b05596434e32fddad360e3a206004c8ba7e6eec4158b3d6f",
+        "size_in_bytes": 2785
+      },
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "688a3eb01479b6661a535ff93a514c88a08f3e93b6e67f387ba63e0d6a9539a2",
+        "sha256_in_prefix": "688a3eb01479b6661a535ff93a514c88a08f3e93b6e67f387ba63e0d6a9539a2",
+        "size_in_bytes": 66
+      },
+      {
+        "_path": "Lib/site-packages/click-8.0.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "275650a206a5612e29a6163f94f102a0d31fc341f34d2ad98250b861fc28e310",
+        "sha256_in_prefix": "275650a206a5612e29a6163f94f102a0d31fc341f34d2ad98250b861fc28e310",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "Lib/site-packages/click/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6ce2abbccaa647dacdd3bbcdff2732add17e11c4c297e126b808eaf85a78c8f3",
+        "sha256_in_prefix": "6ce2abbccaa647dacdd3bbcdff2732add17e11c4c297e126b808eaf85a78c8f3",
+        "size_in_bytes": 3243
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5bd801e50678037950bbd0bca6e91cff06a0be059c12c03f06707156cae44129",
+        "sha256_in_prefix": "5bd801e50678037950bbd0bca6e91cff06a0be059c12c03f06707156cae44129",
+        "size_in_bytes": 2644
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/_compat.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "43f1573b2299d5786b12eae44e2b29d946ddd41819ad7ba24a0f962cfe2dd582",
+        "sha256_in_prefix": "43f1573b2299d5786b12eae44e2b29d946ddd41819ad7ba24a0f962cfe2dd582",
+        "size_in_bytes": 16009
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/_termui_impl.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "92ec5e77b947769a406bbdfc06ad7557d55e153b742c691e56fc55d66b4a1457",
+        "sha256_in_prefix": "92ec5e77b947769a406bbdfc06ad7557d55e153b742c691e56fc55d66b4a1457",
+        "size_in_bytes": 15956
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/_textwrap.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "916329edbf7b20fae172d1331a6f9a02652f0103fd1a8a83b88570de9646a75f",
+        "sha256_in_prefix": "916329edbf7b20fae172d1331a6f9a02652f0103fd1a8a83b88570de9646a75f",
+        "size_in_bytes": 1486
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/_unicodefun.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "479f5bceacefcfdf5d0de19b7233bd0e13832028749c25f00e7a4dd830a32e4c",
+        "sha256_in_prefix": "479f5bceacefcfdf5d0de19b7233bd0e13832028749c25f00e7a4dd830a32e4c",
+        "size_in_bytes": 2281
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/_winconsole.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "24498e0e4f958579a579de50edef4e8508b73276fe7c5348a4396942620fad24",
+        "sha256_in_prefix": "24498e0e4f958579a579de50edef4e8508b73276fe7c5348a4396942620fad24",
+        "size_in_bytes": 7737
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/core.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "79b3417523d7da93b9967691f3eaf16e0e7c675bdb0e987a63fae0a1c695a4d3",
+        "sha256_in_prefix": "79b3417523d7da93b9967691f3eaf16e0e7c675bdb0e987a63fae0a1c695a4d3",
+        "size_in_bytes": 88443
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/decorators.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d076a1a30edffbdb873e982fd312a6aa1091d0fb5a3fc796fb629d36e40b552b",
+        "sha256_in_prefix": "d076a1a30edffbdb873e982fd312a6aa1091d0fb5a3fc796fb629d36e40b552b",
+        "size_in_bytes": 14264
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "da9e3a3c84727a245d0f552342c9129bbc252dbddeaf2cc013f3699e0c6e5f79",
+        "sha256_in_prefix": "da9e3a3c84727a245d0f552342c9129bbc252dbddeaf2cc013f3699e0c6e5f79",
+        "size_in_bytes": 10085
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/formatting.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4cd979559ae7cad7d7afa6ef55b204a7a23a72b5743f759604286a8bd0d25f74",
+        "sha256_in_prefix": "4cd979559ae7cad7d7afa6ef55b204a7a23a72b5743f759604286a8bd0d25f74",
+        "size_in_bytes": 9365
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/globals.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "14cde9089c124c43f7da929eaa5cc1eae1f33e385fa7e572ddf42776f2fafb99",
+        "sha256_in_prefix": "14cde9089c124c43f7da929eaa5cc1eae1f33e385fa7e572ddf42776f2fafb99",
+        "size_in_bytes": 2377
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/parser.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9021d5740d7ef7343d75993719b37f51bb2f8edeac7fd0f3457335e5372c3883",
+        "sha256_in_prefix": "9021d5740d7ef7343d75993719b37f51bb2f8edeac7fd0f3457335e5372c3883",
+        "size_in_bytes": 13520
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/shell_completion.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2de1a3b796041e2743f234500252205949ae946f6049184319278707121a9ee8",
+        "sha256_in_prefix": "2de1a3b796041e2743f234500252205949ae946f6049184319278707121a9ee8",
+        "size_in_bytes": 16641
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/termui.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf12849f812b62232d44d4fb680e8f013318a68d9074e11f3fd590394d06b79e",
+        "sha256_in_prefix": "cf12849f812b62232d44d4fb680e8f013318a68d9074e11f3fd590394d06b79e",
+        "size_in_bytes": 26478
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/testing.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a45ac285632573748e14e11883043e435b5f5c73bab051130baad99a25b317ec",
+        "sha256_in_prefix": "a45ac285632573748e14e11883043e435b5f5c73bab051130baad99a25b317ec",
+        "size_in_bytes": 15091
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/types.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c3827fd524a865d1d9d3c79b5131d87f4468d97a2824378889555a0da08d4b25",
+        "sha256_in_prefix": "c3827fd524a865d1d9d3c79b5131d87f4468d97a2824378889555a0da08d4b25",
+        "size_in_bytes": 32552
+      },
+      {
+        "_path": "Lib/site-packages/click/__pycache__/utils.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "252df3b7b0f8fa2b7f2bcb0d7651052a7467c8f3f327fa19362c54f4b2b91bdb",
+        "sha256_in_prefix": "252df3b7b0f8fa2b7f2bcb0d7651052a7467c8f3f327fa19362c54f4b2b91bdb",
+        "size_in_bytes": 17896
+      },
+      {
+        "_path": "Lib/site-packages/click/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "2481cb62cec9cf3e0a4fdb7e76ce28e230732e39f00a22502aababfb98b008a2",
+        "sha256_in_prefix": "2481cb62cec9cf3e0a4fdb7e76ce28e230732e39f00a22502aababfb98b008a2",
+        "size_in_bytes": 18810
+      },
+      {
+        "_path": "Lib/site-packages/click/_termui_impl.py",
+        "path_type": "hardlink",
+        "sha256": "a8ae827f2e26445c6fc44f1dc9af110612e9482f078c5fa5bc173a68dacf7708",
+        "sha256_in_prefix": "a8ae827f2e26445c6fc44f1dc9af110612e9482f078c5fa5bc173a68dacf7708",
+        "size_in_bytes": 23451
+      },
+      {
+        "_path": "Lib/site-packages/click/_textwrap.py",
+        "path_type": "hardlink",
+        "sha256": "d747d0eb839c05432e2bb985be1f37eb7feea0ec4f95122d64198acd12438286",
+        "sha256_in_prefix": "d747d0eb839c05432e2bb985be1f37eb7feea0ec4f95122d64198acd12438286",
+        "size_in_bytes": 1353
+      },
+      {
+        "_path": "Lib/site-packages/click/_unicodefun.py",
+        "path_type": "hardlink",
+        "sha256": "24a4a1d684b01bfcdb8c0bb84c109af6d41d7b63fd16261c7f83017f2e4d753f",
+        "sha256_in_prefix": "24a4a1d684b01bfcdb8c0bb84c109af6d41d7b63fd16261c7f83017f2e4d753f",
+        "size_in_bytes": 3201
+      },
+      {
+        "_path": "Lib/site-packages/click/_winconsole.py",
+        "path_type": "hardlink",
+        "sha256": "e63bb78d091c643d16dbb584306aa610fe32fdcad45733c2aac5ff1586fb04ed",
+        "sha256_in_prefix": "e63bb78d091c643d16dbb584306aa610fe32fdcad45733c2aac5ff1586fb04ed",
+        "size_in_bytes": 7860
+      },
+      {
+        "_path": "Lib/site-packages/click/core.py",
+        "path_type": "hardlink",
+        "sha256": "318626bea55afdd878c787fe9abed5c8d8bad7deee7186c9d1fb165b91270ab0",
+        "sha256_in_prefix": "318626bea55afdd878c787fe9abed5c8d8bad7deee7186c9d1fb165b91270ab0",
+        "size_in_bytes": 111432
+      },
+      {
+        "_path": "Lib/site-packages/click/decorators.py",
+        "path_type": "hardlink",
+        "sha256": "e599e0383ef6165a3c54b376f626ab234039bbf17e7719aab54ab1e0a37c84e8",
+        "sha256_in_prefix": "e599e0383ef6165a3c54b376f626ab234039bbf17e7719aab54ab1e0a37c84e8",
+        "size_in_bytes": 14879
+      },
+      {
+        "_path": "Lib/site-packages/click/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "ee00da2c6b8564178237063d11132c176f99dd1f45bead3d65ce886522a3b1ea",
+        "sha256_in_prefix": "ee00da2c6b8564178237063d11132c176f99dd1f45bead3d65ce886522a3b1ea",
+        "size_in_bytes": 9167
+      },
+      {
+        "_path": "Lib/site-packages/click/formatting.py",
+        "path_type": "hardlink",
+        "sha256": "16b7f4fb95b7dfe968c98fe2f6aaf05d1f3e4939d6de6e60bf2c4b554772c729",
+        "sha256_in_prefix": "16b7f4fb95b7dfe968c98fe2f6aaf05d1f3e4939d6de6e60bf2c4b554772c729",
+        "size_in_bytes": 9706
+      },
+      {
+        "_path": "Lib/site-packages/click/globals.py",
+        "path_type": "hardlink",
+        "sha256": "4cffaa33cf124f373b7f5dbb877e530ffbfddb41607ce0f6130cea034a04f175",
+        "sha256_in_prefix": "4cffaa33cf124f373b7f5dbb877e530ffbfddb41607ce0f6130cea034a04f175",
+        "size_in_bytes": 1961
+      },
+      {
+        "_path": "Lib/site-packages/click/parser.py",
+        "path_type": "hardlink",
+        "sha256": "70012dd6e411f20ab7f92f72b2a6d553e7dd01936f8a5c70e11789fd3d4e40c9",
+        "sha256_in_prefix": "70012dd6e411f20ab7f92f72b2a6d553e7dd01936f8a5c70e11789fd3d4e40c9",
+        "size_in_bytes": 19044
+      },
+      {
+        "_path": "Lib/site-packages/click/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/click/shell_completion.py",
+        "path_type": "hardlink",
+        "sha256": "1c71f4c0cc250d6e16421b3cad1712f4cf0c028f6096d18137a5763c46ec4e9d",
+        "sha256_in_prefix": "1c71f4c0cc250d6e16421b3cad1712f4cf0c028f6096d18137a5763c46ec4e9d",
+        "size_in_bytes": 18003
+      },
+      {
+        "_path": "Lib/site-packages/click/termui.py",
+        "path_type": "hardlink",
+        "sha256": "999d76b9cdfe96815a57ffefafc6eec67f6e223021cbb43056e64e43c8c37637",
+        "sha256_in_prefix": "999d76b9cdfe96815a57ffefafc6eec67f6e223021cbb43056e64e43c8c37637",
+        "size_in_bytes": 28873
+      },
+      {
+        "_path": "Lib/site-packages/click/testing.py",
+        "path_type": "hardlink",
+        "sha256": "a6da4c620458edd55f1375038248306b2bbd78fc3df2c408dc3ef3657882a63e",
+        "sha256_in_prefix": "a6da4c620458edd55f1375038248306b2bbd78fc3df2c408dc3ef3657882a63e",
+        "size_in_bytes": 16063
+      },
+      {
+        "_path": "Lib/site-packages/click/types.py",
+        "path_type": "hardlink",
+        "sha256": "ae3da0ddb8805ca90d295f2f9706c82925258b1857c9b1fce0df387f0098a945",
+        "sha256_in_prefix": "ae3da0ddb8805ca90d295f2f9706c82925258b1857c9b1fce0df387f0098a945",
+        "size_in_bytes": 35092
+      },
+      {
+        "_path": "Lib/site-packages/click/utils.py",
+        "path_type": "hardlink",
+        "sha256": "33cb6ea6570514744e85adef43ad194526a4481fe783ac3d7bc51cd40ba03d9d",
+        "sha256_in_prefix": "33cb6ea6570514744e85adef43ad194526a4481fe783ac3d7bc51cd40ba03d9d",
+        "size_in_bytes": 18934
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "012559e3abe7c1fa539898cf691f7ebd0340b01cb36db111e52f35dcb8eddc43",
+  "size": 150812,
+  "subdir": "win-64",
+  "timestamp": 1645238504011,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/click-8.0.4-py39hcbf5309_0.tar.bz2",
+  "version": "8.0.4"
+}
