@@ -1,0 +1,9 @@
+#!/bin/sh
+'''exec' "/home/makorino/anaconda3/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import sys
+
+if __name__ == '__main__':
+    from conda_env.cli.main import main
+    sys.exit(main())
